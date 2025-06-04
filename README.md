@@ -1,8 +1,8 @@
-## Simulador de Investimentos de Fundos Imobiliarios com Excel
+## Simulador de Investimentos de Fundos Imobiliários com Excel
 
 <p align="center">
 <img 
-    src="Imagem/img_programmer_github.png"
+    src="Imagens/img_programmer_github.png"
     width="300"
 />
 </p>
